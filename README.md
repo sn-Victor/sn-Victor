@@ -23,30 +23,30 @@ Production systems I've designed, built, and run. Each case study covers the pro
 <table>
   <tr>
     <td width="45%" valign="top">
-      <a href="https://github.com/sn-Victor/settlemyre-website-case-study"><img src="images/storefront.png" alt="Headless retail and wholesale storefront case study"></a>
+      <a href="https://github.com/sn-Victor/headless-storefront-case-study"><img src="images/storefront.png" alt="Headless retail and wholesale storefront case study"></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/sn-Victor/settlemyre-website-case-study">Headless Retail and Wholesale Storefront</a></h3>
+      <h3><a href="https://github.com/sn-Victor/headless-storefront-case-study">Headless Retail and Wholesale Storefront</a></h3>
       <p>Two Shopify stores served from one React codebase, with commercial account switching, merged online and in-store order history, and build-time prerendering for SEO. Passes Core Web Vitals on real visitor data.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Shopify</code> <code>AWS</code></p>
     </td>
   </tr>
   <tr>
     <td width="45%" valign="top">
-      <a href="https://github.com/sn-Victor/settlemyre-messenger-case-study"><img src="images/messenger.png" alt="Team messaging platform case study"></a>
+      <a href="https://github.com/sn-Victor/team-messaging-platform-case-study"><img src="images/messenger.png" alt="Team messaging platform case study"></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/sn-Victor/settlemyre-messenger-case-study">Team Messaging Platform</a></h3>
+      <h3><a href="https://github.com/sn-Victor/team-messaging-platform-case-study">Team Messaging Platform</a></h3>
       <p>Took over a broken web app and rebuilt it for web, iOS, and Android. A shared customer texting inbox for a 9-person team, built so a text never fails when the database link drops.</p>
       <p><code>Next.js</code> <code>React Native</code> <code>Bun</code> <code>tRPC</code> <code>Twilio</code></p>
     </td>
   </tr>
   <tr>
     <td width="45%" valign="top">
-      <a href="https://github.com/sn-Victor/settlemyre-accounting-pipeline-case-study"><img src="images/accounting.png" alt="Accounting automation pipeline case study"></a>
+      <a href="https://github.com/sn-Victor/accounting-automation-case-study"><img src="images/accounting.png" alt="Accounting automation pipeline case study"></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/sn-Victor/settlemyre-accounting-pipeline-case-study">Accounting Automation Pipeline</a></h3>
+      <h3><a href="https://github.com/sn-Victor/accounting-automation-case-study">Accounting Automation Pipeline</a></h3>
       <p>Hundreds of vendor bills a month from inbox to QuickBooks Online, unattended. Every bill is read twice and only posts when both reads agree to the cent, with a native Mac app for the bookkeeper.</p>
       <p><code>Python</code> <code>Claude API</code> <code>QuickBooks API</code> <code>SwiftUI</code></p>
     </td>
